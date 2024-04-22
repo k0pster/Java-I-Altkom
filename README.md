@@ -14,4 +14,5 @@ OBSŁUGA BŁĘDÓW I WYJĄTKÓW
 WPROWADZENIE DO WYRAŻEŃ LAMBDA
 OBSŁUGA DATY I CZASU
 PRACA Z DZIENNIKIEM ZDARZEŃ
+
 Główny projekt: Aplikacja biura podróży w module 4 ( dyanmiczne zarządzanie wycieczekami oraz klientami biura podróży. Interfejs konsolowy Switch. )
