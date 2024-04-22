@@ -1,0 +1,2 @@
+kwi 19, 2024 2:56:20 PM pl.altkom.biuro.MainHandler addCustomer
+INFO: Dodano nowego klienta!
