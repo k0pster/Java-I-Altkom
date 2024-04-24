@@ -33,7 +33,7 @@ public class TravelOffice {
 
     public Customer findCustomerByName(String name) {
         for (Customer customer : customers){
-            if (customer.toString().startsWith("Name: "+name+"\n")) {
+            if (customer.toString().startsWith("Name: "+name+"\r\n")) {
                 return customer;
             };
         }
